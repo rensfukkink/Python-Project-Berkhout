@@ -1,0 +1,15 @@
+2024-05-28 01:53:39,895 - INFO - Logging setup complete.
+2024-05-28 01:53:57,396 - INFO - User konijn has been successfully added.
+2024-05-28 01:53:57,396 - INFO - Profile path: \\Server01\UserProfiles\konijn
+2024-05-28 01:53:57,396 - INFO - Home folder: \\Server01\UserFolders\konijn
+2024-05-28 01:55:13,515 - INFO - Logging setup complete.
+2024-05-28 01:55:21,267 - ERROR - Error adding user dfgh: 0x800708c5: The password does not meet the password policy requirements. Check the minimum password length, password complexity and password history requirements.
+
+2024-05-28 01:56:41,480 - INFO - Logging setup complete.
+2024-05-28 01:56:54,323 - INFO - User flappie has been successfully added.
+2024-05-28 01:56:54,323 - INFO - Profile path: \\Server01\UserProfiles\flappie
+2024-05-28 01:56:54,323 - INFO - Home folder: \\Server01\UserFolders\flappie
+2024-06-03 01:52:32,926 - INFO - Logging setup complete.
+2024-06-03 01:52:56,523 - INFO - User Bob Berkhout has been successfully added.
+2024-06-03 01:52:56,523 - INFO - Profile path: \\SERVER01\UserProfiles\Bob Berkhout
+2024-06-03 01:52:56,523 - INFO - Home folder: \\SERVER01\UserFolders\Bob Berkhout
